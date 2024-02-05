@@ -1,4 +1,4 @@
-module github.com/telflow/xk6-kafka-consumer
+module github.com/bagusYudistira/k6-kafka-consumer
 
 go 1.20
 
