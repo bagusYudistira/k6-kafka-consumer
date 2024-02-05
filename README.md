@@ -17,7 +17,7 @@ K6 extension to test application consumer.
 
 - build the project
   ```bash
-  xk6 build  --with github.com/telflow/xk6-kafka-consumer=.
+  xk6 build  --with  --with github.com/bagusYudistira/k6-kafka-consumer=.
   ```
 - test the script
   ```bash
